@@ -166,7 +166,7 @@ comment = ref[4]
 lola2 = [ref[1],ref[2]]
 comph = lola2 + lola
 
-print (lola,"is \n\n ", dnm,"nm ", compdir(bear(*comph)),"of",name,"\n\n=", comment,"-" ,ref[3])
+# print (lola,"is \n\n ", dnm,"nm ", compdir(bear(*comph)),"of",name,"\n\n=", comment,"-" ,ref[3])
 
 print ( dnm,"nm ", compdir(bear(*comph)),"of",name,"\n\n=", comment,"-" ,ref[3])
 
