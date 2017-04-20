@@ -168,5 +168,5 @@ comph = lola2 + lola
 
 print (lola,"is \n\n ", dnm,"nm ", compdir(bear(*comph)),"of",name,"\n\n=", comment,"-" ,ref[3])
 
-
+print ( dnm,"nm ", compdir(bear(*comph)),"of",name,"\n\n=", comment,"-" ,ref[3])
 
