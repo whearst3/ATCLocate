@@ -5,6 +5,7 @@ import time
 # db = list ov VORs in California
 # var = -15 
 # (degrees East magnetic variation at SFO
+# slightly over stated 
 
 db =[ [ "FJS", 41.4497, -122.806, 109.6, "FORT JONES" ],
  [ "RDD", 40.5046, -122.292, 108.4, "REDDING" ],
